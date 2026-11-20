@@ -1,0 +1,12 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Служебные файлы macOS и редакторов
+.DS_Store
+.idea/
+.vscode/
